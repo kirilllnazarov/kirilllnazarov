@@ -1,6 +1,6 @@
 <h1>Hello World 🌍</h1>
 
-<div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="kirill-nazarov-327492332" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/kirill-nazarov-327492332?trk=profile-badge">Kirill Nazarov</a></div>
+<i class="bi bi-linkedin"></i><a href='https://www.linkedin.com/in/kirilllnazarov/'>My linkedIn</a>
               
 
 <!--
