@@ -1,6 +1,5 @@
 <h1>Hello World 🌍</h1>
 
-<i class="bi bi-linkedin"></i><a href='https://www.linkedin.com/in/kirilllnazarov/'>My linkedIn</a>
               
 
 <!--
